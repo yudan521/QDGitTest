@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>商品详情页</title>
+
+	<link rel="stylesheet" type="text/css" href="css/common.css"/>
+	<link rel="stylesheet" type="text/css" href="css/shopcar.css"/>
+	<script type="text/javascript" src="js/jquery-1.7.1.js"></script>
+	<script type="text/javascript" src="js/index.js"></script>
+	<script type="text/javascript" src = "js/ajax.js"></script>
+	<script type="text/javascript" src = "js/shopcar.js"></script>
+	<script src="js/jquery.cookie.js"></script>
+</head>
+<body>
+		<!--*******top************************************************-->
+	<div id="top">
+		<div class="wrap">
+			<ul>
+				<li class="top1">您好</li>
+				<li class="top2"><a href="register.html">登录/注册</a></li>
+				<li class="top3"><a href="#"><img src = 'images/icon_qd.png'/>马上签到</a></li>
+				<li class="top4"><a href="#">招聘</a></li>
+				<li class="top5"><a href="#">投资者关系</a></li>
+				<li class="top6"><a href="#">Investor Relations</a></li>
+				<li class="top7"><a href="#">English</a></li>
+				<li class="top8"><a href="#"><img src = 'images/area.jpg'/></a></li>
+			</ul>
+		</div>
+	</div>
+	<!--********header************************************************************-->
+	<div id="header">
+		<div class="wrap">
+			<div class="header_l"><img src="images/logo.jpg"></div>
+			<div class="header_m">
+				<ul>
+					<li class="header03"><a href="#">首页</a></li>
+					<li class="header01"><a href="#">所有产品</a></li>
+					<li class="header02"><a href="#">更多品牌</a></li>
+					<li class="header03"><a href="#">品牌新闻</a></li>
+					<li class="last"><a href="#">热爱是金</a></li>
+				</ul>
+			</div>
+			<div class="header_r">
+				<input type="text" placeholder="跑鞋" />
+				<div><a class="img01" href = "#"><img src="images/newhome_03.jpg"/></a></div>
+				<div class="img02"><a href="shopping.html"><img src="images/newhome_05.jpg"/>(<span>0</span>)</a></div>
+				<p class="header_sear">热门搜索&nbsp;:<a href="#">跑步鞋</a><a href="#">短T恤</a><a href="#">科技助跑</a></p>
+				
+			</div>
+		</div>
+	</div>
+
+	<!--********sort********************************************************-->
+	<div id="sort">
+		<div class="wrap">
+			<p><span>所有分类</span> > 首页 > 商品列表 > 361° 女款 连帽套头卫衣</p>
+		</div>
+	</div>
+	<!--******************buy*******************************************-->
+	<div id="buy">
+		<div class="wrap">
+			<div class="buy_l fl"></div>
+			<div class="buy_m fl">
+				<span></span>
+				<div class="buy_m1"></div>
+			</div>
+			<div class="glass"></div>
+			<div class="buy_r fl">
+				<p class="buy_r1">361°女款 连帽套头卫衣<img src="images/rand5.png"/></p>
+				<p class="buy_r2">吊牌价：<del>￥279.00</del></p>
+				<p class="buy_r3"><span class="buy_r31">销售价：</span><span class="buy_r32">149.00</span>   <em>[5.3折 节省￥130.00]</em></p>
+				<p class="buy_r4">运费：不包邮(<a href="#">运费详情</a>)</p>
+				<p class="buy_r5"><span>颜色分类</span><img class="img1" src="images/m_56c6e46516c35.jpg"/><img class="img1" src="images/m_56c6e4664d390.jpg"/></p>
+				<p class="buy_r6">
+					<span>尺码选择</span><em>S</em><em>M</em><em>L</em><em>XL</em><em>2XL</em><em>3XL</em><em>4XL</em><em>5XL</em>
+				</p>
+				<p class="buy_r7">
+					<span class="buy_r71">数量</span><span class="buy_r72">1</span><button class="buy_r73"></button><button class="buy_r74"></button><span class="buy_r75">件 库存18件</span>
+				</p>
+				<p class="buy_r8"><img src="images/dazhe_03.jpg" /><span>畅跑随心 专业跑鞋推荐</span></p>
+				<p class="buy_r8"><img src="images/dazhe_03.jpg" /><span>fun享一夏 夏季潮人搭配</span></p>
+				<p class="buy_r9">
+					<button class="buy_r91">￥ 立即购买</button>
+					<button class="buy_r92">加入购物车</button>
+				</p>
+				<p class="buy_r10">
+					<span class="buy_r101">分享到：</span><a class="buy_r102"></a><a class="buy_r103"></a><a class="buy_r104"></a><a class="buy_r105"></a><a class="buy_r106"></a><a class="buy_r107"></a><a class="buy_r108"></a><a class="buy_r109"><span class="fl">加入收藏</span></a>
+				</p>
+			</div>
+		</div>
+	</div>
+	<!--********content**************************************************************-->
+	 <div id="content">
+		<div class="wrap">
+			<div class="cont_l fl">
+				<div class="cont_l1">快速检测</div>
+				<div class="cont_l2">
+					<p class="cont1">关键字<input type="text"></p>
+					<p class="cont2">价格&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" value="￥"/>  - <input type="text" value="￥"/></p>
+					<p class="cont3"><input type="button"></p>
+					<p class="cont4"><a class="cont41" href="#">篮球鞋</a><a class="cont42" href="#">跑步鞋</a><span></span></p>
+					<p class="cont4"><a class="cont41" href="#">综训鞋</a><a class="cont42" href="#">休闲鞋</a></p>
+					<p class="cont4"><a class="cont41" href="#">户外鞋</a><span></span></p>
+				</div>
+				<div class="cont_clothes">
+					<p class="clothes_t">热销款<span></span></p>
+					<dl>
+						<dt><a href="#"><img src="images/m_56ca72236ee8d.jpg"/></a></dt>
+						<dd>￥139.00</dd>
+					</dl>
+					<dl>
+						<dt><a href="#"><img src="images/m_56ca7b21a329e.jpg"/></a></dt>
+						<dd>￥189.00</dd>
+					</dl>
+					<dl>
+						<dt><a href="#"><img src="images/m_56c81647cc2eb.jpg"/></a></dt>
+						<dd>￥189.00</dd>
+					</dl>
+					<dl>
+						<dt><a href="#"><img src="images/m_56946372e94f5.jpg"/></a></dt>
+						<dd>￥109.00</dd>
+					</dl>
+				</div>
+			</div>
+			<div class="cont_r fl">
+				<i href="#">商品详情</i>
+				<i href="#">商品评价(<span>0</span>)</i>
+				<i href="#">尺码说明</i>
+				<!--*****商品详情*****************************************************-->
+				<div class="details">
+					<div class="det_t">
+						<p><img src="images/productview_115.jpg"/></p>
+						<p><span>品牌：361°</span><span>货号：561619616</span><span>上市时间：2016年春季</span></p>
+						<p>性别：女</p>
+						<p>商品描述：</p>
+					</div>
+					<div class="det_m">
+						<img src="images/TB2IlktjVXXXXcPXXXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/TB2gIZcjVXXXXa_XpXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/TB2jmZjjVXXXXX0XpXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/TB2BkZujVXXXXczXXXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/TB2PXcxjVXXXXbRXXXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/TB2yN3ijVXXXXacXpXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/TB28NP1jVXXXXXtXFXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/TB2JXwsjVXXXXcMXXXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/TB2YtgmjVXXXXXtXpXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/TB2SLwqjVXXXXXsXpXXXXXXXXXX-363607599.jpg"/>
+						<img src="images/56c6e41c86ad7.jpg"/>
+					</div>
+				</div>
+				<!--******商品评价**********************************************************-->
+				<div class="evaluate">
+					<div class="eval_t">
+						<p><img src="images/productview_133.jpg"/></p>
+						<div class="eval_m">
+							<div class="eval01"><img src="images/rand5.png"><span>0</span>条评论</div>
+							<div class="eval02">平均<span>0</span>星</div>
+							<div class="eval03">
+								<p><em>5星</em><span></span>0</p>
+								<p><em>4星</em><span></span>0</p>
+								<p><b>3星</b><span></span>0</p>
+								<p><b>2星</b><span></span>0</p>
+								<p><b>1星</b><span></span>0</p>
+							</div>
+							<div class="eval_b"><a href="#">当前产品评价(<span>0</span>)</a></div>
+
+						</div>
+
+					</div>
+					
+				</div>
+				<!--********尺码说明************************************************-->
+				<div class="size">
+					<div class="size_t">
+						<p><img src="images/productview_133.jpg"/></p>
+					</div>
+					<div class="size_b">
+						<img src="images/cmsm_07.jpg" />
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+
+		<!--*******attention****************************************************************-->
+	<div id="attention">
+		<div class="wrap">
+			<div class="attention_l"></div>
+			<div class="attention_m"></div>
+			<div class="attention_r"></div>
+		</div>
+	</div>
+<!--*********buttom***************************************************************************-->
+	<div id="buttom">
+	<div class="wrap">
+		<div class="buttom_t">
+			<ul>
+				<li>
+					<div class="buttom_tl"><img src="images/guanfang-pic.png"/></div>
+					<div class="buttom_tm">所售商品 均为<br/>官方正品</div>
+					<div class="buttom_tb"><img src="images/promise-libg.png"></div>
+				</li>
+				<li>
+					<div class="buttom_tl"><img src="images/sever.png"/></div>
+					<div class="buttom_tm">七天无理由退换货贴心售后服务</div>
+					<div class="buttom_tb"><img src="images/promise-libg.png"></div>
+				</li>
+				<li>
+					<div class="buttom_tl"><img src="images/shiwu.png"/></div>
+					<div class="buttom_tm">100%实物拍摄<br/>如实详情描述</div>
+					<div class="buttom_tb"><img src="images/promise-libg.png"></div>
+				</li>
+				<li>
+					<div class="buttom_tl"><img src="images/baoyou.png"/></div>
+					<div class="buttom_tm">满179元包邮<br/>包邮服务轻松购</div>
+					<div class="buttom_tb"><img src="images/promise-libg.png"></div>
+				</li>
+			</ul>
+		</div>
+		<div class="buttom_b">
+			<dl>
+				<dt>关于361°</dt>
+				<dd><a href="#">投资者关系</a><a href="#">集团简介</a><a href="#">店铺查询</a><a href="#">361°BIFT</a><a href="#">联系我们</a></dd>
+			</dl>
+			<dl>
+				<dt>如何购物</dt>
+				<dd><a href="#">购物流程</a><a href="#">订单查询</a><a href="#">会员及积分体系</a></dd>
+			</dl>
+			<dl>
+				<dt>支付方式</dt>
+				<dd><a href="#">支付方式</a><a href="#">发票说明</a></dd>
+			</dl>
+			<dl>
+				<dt>物流配送</dt>
+				<dd><a href="#">配送事件和范围</a><a href="#">配送费用</a><a href="#">商品验收</a></dd>
+			</dl>
+			<dl>
+				<dt>售后服务</dt>
+				<dd><a href="#">退换货流程</a><a href="#">售后服务政策</a></dd>
+			</dl>
+			<dl>
+				<dt>练习361°官方商城</dt>
+				<dd><img src="images/phone.png"/><img src="images/qq.png"/><p>0592-3790038</p><p>在线时间：周一至周五</p><p>(9:00-12:00 13:00-18:00)</p><a class="buttom_bb" href="#">==361在线客服==</a><a href="#">QQ:476849964</a></dd>
+
+			</dl>
+		</div>
+	</div>
+</div>
+<!--********footer***********************************************-->
+	<div id="footer">
+		<div class="wrap">
+			<p>中国 闵ICP备05003868号&copy2013三六一度(中国)有限公司All Rights Reserved</p>
+		</div>
+	</div>
+	<div id="foot"></div>
+<!--*********回到顶部*******************************************************-->
+	<div id="scroll">
+		<img class="scroll_t" src="images/float-tip.png"/>
+		<div class="scroll_t1 ">
+		   <!--  <img src="images/float-down.png"/> -->
+		    <!-- <img src="images/float-down.png"/> -->
+		</div>
+		<div class="scroll_b">
+			<a class="scroll1 " href="shopping.html"><img src="images/gouwuche.png"/>购物车<span>0</span></a>
+			<a class="scroll2 " href="#"><img src="images/kefu-tip.png"/>客服</a>
+			<a class="scroll2 " href="#"><img src="images/shoucang.png"/>收藏</a>
+			<a class="scroll2 " href="#"><img src="images/saoma-tip.png"/>扫码</a>
+			<a class="scroll3" href="#banner"><img src="images/back-top.png"/></a>
+		</div>
+	</div>	
+	
+</body>
+</html>

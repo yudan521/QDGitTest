@@ -1,0 +1,15 @@
+/*----shopping------------------------------------------------------------------------*/
+#shopping{height: 650px;padding-top:170px;}
+.shop_t{height: 45px;padding-left: 434px;margin-bottom: 34px;width: 746px;}
+.shop_m{padding-left:300px;margin-bottom: 39px;width: 880px;}
+.shop_b{width: 1091px;height: 267px;background: #f6f6f6;}
+.shop_b .shop_bt{height: 35px;background: url(../images/shutiao.jpg);}
+.shop_b ul{height: 35px;width: 1091px;position: relative;}
+.shop_b ul li{float: left; text-align: center;}
+.shop_b ul li{font:12px/35px '';color:#000;}
+.shop_b .shop_bt1{width: 12px;height: 12px;border:1px solid #c5c5c5;display: block;position: absolute;top:10px;left:19px;}
+.shop_b .lastone{position: relative;}
+.shop_b .store{font-size:12px;color:#000;position: absolute;top:16px;left:30px;cursor: pointer;}
+.shop_b .remove{font-size:12px;color:#000;position: absolute;top:36px;left:30px;cursor: pointer;}
+.shop_b .lastone a{line-height: 21px}
+.shop_b .lastone a:hover{text-decoration: underline}

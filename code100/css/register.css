@@ -1,0 +1,71 @@
+/*-------register---------------------------------------------------------------------*/
+#register{height:897px;background: #fff;}
+#register .wrap{width: 1018px;height: 559px;padding:158px 81px 180px 81px;}
+#register .wrap .reg_t{height: 20px;background: url(../images/login_03.jpg) no-repeat center;}
+#register .wrap .reg_m{height: 523px;background: url(../images/login_05.jpg) center;}
+#register .wrap .reg_m .reg_ml{width: 510px;height: 523px;}
+#register .wrap .reg_m .reg_mlt{height: 122px;font:23px/122px '';font-weight:800;text-indent:104px;}
+#register .wrap .reg_ml .reg_mlb{height: 325px;width: 510px;border-right:1px solid #d8d8d8;}
+
+#register .wrap .reg_mlb1{font:12px/52px '';color:#333333;text-indent: 104px;}
+#register .wrap .reg_ml .reg_mlb .reg_mlb2{font:12px/51px '';color:#333333;text-indent: 118px;}
+#register .wrap .reg_ml .reg_mlb .reg_mlb2 input{width: 232px;height: 25px;border:1px solid #dedfde;padding-left: 3px;}
+#register .wrap .reg_ml .reg_mlb .reg_mlb3{font:12px/33px '';color:#333333;text-indent: 14px;text-indent: 118px;}
+#register .wrap .reg_ml .reg_mlb3 input{width: 232px;height: 25px;border:1px solid #dedfde;padding-left: 3px;}
+
+
+#register .wrap .reg_ml .reg_mlb .reg_mlb8{font:12px/33px '';color:#ff5783;text-indent: 156px;}
+#register .wrap .reg_ml .reg_mlb8 input{width: 232px;height: 25px;border:1px solid #FFD797;padding-left: 3px;background: url(../images/errorMsg.png) no-repeat 11px;text-indent: 36px;color:#ff5783}
+#register .wrap .reg_ml .reg_mlb .reg_mlb4{font:12px/45px '';color:#666;text-indent: 56px;text-indent: 160px;}
+#register .wrap .reg_ml .reg_mlb .reg_mlb4 span{color:#bf262d;margin-left:20px;}
+#register .wrap .reg_ml .reg_mlb .reg_mlb5{text-indent: 160px;font:14px/45px '';}
+#register .wrap .reg_ml .reg_mlb .reg_mlb5 input{color:#fcfffb;background: #f99302;font:14px/33px '';width: 146px;height: 33px;border:none;border-radius: 4px;}
+#register .wrap .reg_ml .reg_mlb .reg_mlb6{background: url(../images/login_line.png) no-repeat center;text-indent: 225px;font-size:11px;color:#333;line-height: 31px;}
+#register .wrap .reg_ml .reg_mlb7{position: relative;height: 36px;line-height: 36px;}
+#register .wrap .reg_ml .reg_mlb7 .qq{background: url(../images/ico.gif) no-repeat center;width: 24px;height: 24px;border-radius: 4px;display: block;position: absolute;left:217px;}
+#register .wrap .reg_ml .reg_mlb7 .weibo{background: url(../images/ico.gif) no-repeat left;width: 24px;height: 24px;border-radius: 4px;display: block;position: absolute;left:248px;}
+
+#register .wrap .reg_m .reg_mr{width: 508px;height: 523px;}
+#register .reg_mr .one{font:12px/29px '';text-indent: 97px;color:#333;}
+#register .reg_mr .two{font:12px/38px '';text-indent: 110px;color:#333;}
+#register .reg_mr .two input{width: 235px;height: 25px;border:1px solid #dedfde;}
+#register .reg_mr .three{font:12px/38px '';text-indent: 110px;color:#333;}
+#register .reg_mr .three input{width: 235px;height: 25px;border:1px solid #dedfde;}
+#register .reg_mr .four{font:12px/38px '';text-indent: 124px;color:#333;}
+#register .reg_mr .four input{width: 235px;height: 25px;border:1px solid #dedfde;}
+#register .reg_mr .five{font:12px/38px '';text-indent: 96px;color:#333;}
+#register .reg_mr .five input{width: 235px;height: 25px;border:1px solid #dedfde;}
+#register .reg_mr .six{font:12px/38px '';text-indent: 82px;color:#333;}
+#register .reg_mr .six input{width: 112px;height: 25px;border:1px solid #dedfde;}
+
+#register .reg_mr .reg_mlb9{font:12px/38px '';text-indent: 156px;color:#333;}
+#register .reg_mr .reg_mlb9 input{width: 232px;height: 25px;border:1px solid #FFD797;padding-left: 3px;background: url(../images/errorMsg.png) no-repeat 11px;text-indent: 36px;color:#ff5783}
+#register .reg_mr .six button{width: 79px;height: 25px;background: #f5951d;cursor: pointer;color:#fff;margin-left:10px;font:12px/25px '';text-align: center;border:none;border-radius: 4px;}
+#register .reg_mr .seven{text-indent: 162px;line-height: 51px;}
+#register .reg_mr .seven input{font:12px/33px '';width: 146px;height: 33px;background: #f99302;color:#fff;border:none;}
+#register .reg_mr .eight{font:12px/35px '';text-indent: 162px;color:#666;}
+#register .wrap .reg_b{height: 16px;background: url(../images/login_35.jpg) no-repeat center;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+#sort{height:59px;color:#d4d5d5;font:11px/59px '';padding-top:112px;}
+#buy{height: 537px;background: #fff;margin-bottom: 52px;}
+#buy .buy_l{width: 111px;height:537px;}
+
+
+#buy .glass{width: 415px;height: 415px;border:1px solid #cccccc;position: absolute;left:900px;z-index: 5;display: none;}
+#buy .buy_m{width: 542px;height: 535px;border:1px solid #f4f4f4;background: url(../images/pvyy.png) no-repeat right center;border-right:none;position: relative;}
+
+#buy .buy_m .buy_m1{width: 278px;height: 278px;background: url(../images/promise-libg.png);z-index: 2;position: absolute;float: left;display: none;}
+#buy .buy_m span{width: 33px;height: 33px;background: url(../images/bigpicfd.jpg) no-repeat right bottom;display: block;position: absolute;top:502px;left:502px;}
+#buy .buy_r{width: 470px;height: 537px;padding-left: 45px;padding-right:7px;}
+.buy_r .buy_r1{font:18px/46px '';color:#000;font-weight: 800;margin-bottom: 11px;}
+.buy_r .buy_r2{font:11px/25px '';color:#c9c9c9;}
+.buy_r .buy_r3{height: 33px;}
+.buy_r .buy_r3 .buy_r31{font: 11px/25px '';color:#90908f;}
+.buy_r .buy_r3 .buy_r32{font: 18px/33px '';color:#f99302;}
+.buy_r .buy_r3 em{font: 11px/25px '';color:#90908f;}
+.buy_r .buy_r4{height: 31px;padding-bottom:10px;font: 11px/31px '';color:#cca878;border-bottom: 1px dashed #aeadb1;margin-bottom: 36px;}
+.buy_r .buy_r4 a{font: 11px/31px '';color:#cca878;text-decoration: underline;}
+.buy_r .buy_r5{height: 40px;margin-bottom: 11px;}
+.buy_r .buy_r5 span{font:11px/40px '';color:#bbbdc3;margin-right:23px;display: block;float: left;}
+.buy_r .buy_r5 img{width: 38px;height: 38px;border:1px solid #efeeef;float: left;margin-right:6px;}
+.buy_r .buy_r6{height: 22px;margin-bottom: 10px;}
+.buy_r .buy_r6 span{font:11px/22px '';color:#bbbdc3;margin-right:23px;display: block;float: left;}
+.buy_r .buy_r6 em{display: block;float: left;padding: 4px 4px 3px 5px;border:1px solid #dddddd;margin-right:3px;color:#bbbdc3;font-size:9px;cursor:pointer;}
+.buy_r .buy_r7{height: 31px;position: relative;margin-bottom: 27px;}
+.buy_r .buy_r7 .buy_r71{font:11px/31px '';color:#c6cbcb;position: absolute;left: 0}
+.buy_r .buy_r7 .buy_r72{background: url(../images/productview_49.jpg) no-repeat center;display: block;position: absolute;width: 48px;height: 31px;left:70px;font:11px/31px '';color:#666666;padding-left: 11px;}
+.buy_r .buy_r7 .buy_r73{width: 16px;height: 12px;background: url(../images/productview_51.jpg) no-repeat center;position: absolute;border:1px solid #e1e1e3;left:133px;}
+.buy_r .buy_r7 .buy_r74{width: 16px;height: 12px;background: url(../images/productview_54.jpg) no-repeat center;position: absolute;border:1px solid #e1e1e3;left:133px;top:17px;}
+.buy_r .buy_r7 .buy_r75{font:11px/31px '';color:#c6cbcb;position: absolute;left: 155px;}
+.buy_r .buy_r8{height: 17px;margin-bottom: 15px;}
+.buy_r .buy_r8 img{float: left;}
+.buy_r .buy_r8 span{height: 14px;font-size:11px;color:#bcbebd;border-bottom: 1px solid #ffaaaa;padding-bottom:3px;margin-left:8px;line-height: 17px;display: block;float: left;}
+.buy_r .buy_r9{height:63px;line-height: 63px;margin-bottom: 31px;}
+.buy_r .buy_r9 .buy_r91{width: 150px;height: 40px;background: #f99302;color:#fffdfb;font:17px/40px '';border:none;}
+.buy_r .buy_r9 .buy_r92{width: 150px;height: 40px;background: #555;color:#fffdfb;font:17px/40px '';border:1px solid #8a8a8a}
+.buy_r .buy_r10{height: 44px;line-height: 44px;}
+.buy_r .buy_r10 .buy_r101{font:12px/44px '';color:#eaeaea;float: left;}
+.buy_r .buy_r10 .buy_r102{float: left;background: url(../images/icons_0_16.png) no-repeat left top;display: block;margin-right:7px;width: 16px;height: 16px;margin-top:14px;}
+.buy_r .buy_r10 .buy_r103{float: left;background: url(../images/icons_0_16.png) no-repeat left -52px;display: block;margin-right:7px;width: 16px;height: 16px;margin-top:14px;}
+.buy_r .buy_r10 .buy_r104{float: left;background: url(../images/icons_0_16.png) no-repeat left -104px;display: block;margin-right:7px;width: 16px;height: 16px;margin-top:14px;}
+.buy_r .buy_r10 .buy_r105{float: left;background: url(../images/icons_0_16.png) no-repeat left -260px;display: block;margin-right:7px;width: 16px;height: 16px;margin-top:14px;}
+.buy_r .buy_r10 .buy_r106{float: left;background: url(../images/icons_0_16.png) no-repeat left -208px;display: block;margin-right:7px;width: 16px;height: 16px;margin-top:14px;}
+.buy_r .buy_r10 .buy_r107{float: left;background: url(../images/icons_0_16.png) no-repeat left -1612px;display: block;margin-right:7px;width: 16px;height: 16px;margin-top:14px;}
+.buy_r .buy_r10 .buy_r108{float: left;background: url(../images/icons_0_16.png) no-repeat left -468px;display: block;margin-right:7px;width: 16px;height: 16px;margin-top:14px;}
+.buy_r .buy_r10 .buy_r109{float: left;background: url(../images/shoucang.jpg) no-repeat left top;font:12px/44px '';color:#eaeaea;display: block;width: 74px;height: 16px;margin-left: 18px;margin-top:14px;}
+.buy_r .buy_r10 .buy_r109 span{margin-top: -14px;text-indent: 20px;}
+/*--------content-------------------------------------------------------------*/
+#content{height: 7324px;}
+#content .cont_l{height: 2270px;width: 215px;}
+#content .cont_l .cont_l1{width: 215px;height: 32px;background: #545555;color:#fff;font:12px/32px '';text-indent: 22px;}
+#content .cont_l .cont_l2{width: 213px;height: 250px;border:1px solid #e2e2e2;margin-bottom: 12px}
+.cont_l2 .cont1{margin-top:16px;height: 28px;font:11px/28px '';text-indent: 14px;color:#545555;margin-bottom: 5px;}
+.cont_l2 .cont1 input{width: 130px;height: 26px;border:1px solid #e0e0e0;margin-left:9px;}
+.cont_l2 .cont2{height: 28px;font:11px/28px '';text-indent: 14px;color:#545555;margin-bottom: 7px;}
+.cont_l2 .cont2 input{width: 58px;height: 26px;border:1px solid #e0e0e0;margin-left:9px;color:#bababa;text-indent: 8px;}
+.cont_l2 .cont3{height: 26px;margin-bottom: 16px;}
+.cont_l2 .cont3 input{width: 65px;height: 26px;background: #545555 url(../images/pview_search.jpg) no-repeat 24px center;margin-left:59px;border:none;}
+.cont_l2 .cont4{position: relative;height: 24px;margin-bottom: 17px;}
+.cont_l2 .cont4 span{background: url(../images/pview_hot.jpg);width: 27px;height: 18px;display: block;position: absolute;left:71px;}
+.cont_l2 .cont4 a{display: block;width: 52px;height: 22px;border:1px solid #e0e0e0;float: left;font:12px/22px '';color:#545555;text-align: center;}
+.cont_l2 .cont4 .cont41{margin-left: 14px;}
+.cont_l2 .cont4 .cont42{margin-left: 42px;}
+.cont_l .cont_clothes{width: 213px;height: 281px;border:1px solid #e5e5e5;margin-top:12px;}
+.cont_l .cont_clothes .clothes_t{font:11px/31px '';color:#000;position: relative;text-indent: 20px;margin-bottom: 18px;}
+.cont_l .cont_clothes .clothes_t span{background: url(../images/pview_sx.jpg) no-repeat;position: absolute;width: 12px;height: 11px;display: block;right:10px;top:10px;}
+.cont_l .cont_clothes dl{width: 106px;height: 116px;text-align: center;float: left;}
+.cont_l .cont_clothes dl dt img{width: 66px;height: 57px;}
+.cont_l .cont_clothes dl dd{font:9px/59px '';color:#ff4805;}
+
+#content .cont_r{height: 2270px;width: 945px;position: relative;margin-left: 8px;}
+#content .cont_r i{display: block;width: 122px;height: 30px;font:12px/30px '';color:#000;float: left;text-align: center;margin-right:2px;cursor:pointer;border:1px solid #e0e0e0;border-radius: 4px;background: #ececec;border-bottom: none}
+#content .cont_r a span{color:#f99302;}
+.details{display: none}
+.details .det_t{width: 843px;height: 306px;border:1px solid #e0e0e0;background: #f9f9f9;margin-top:30px;padding:0 50px;}
+.details .det_m{height: 6920px;width: 687px;padding-top:61px;padding-left:78px;padding-right:78px;}
+.evaluate{height: 800px;width: 843px;display: none;}
+.evaluate .eval_t{width: 843px;height: 373px;border-top:1px solid #e0e0e0;border-bottom:1px solid #e0e0e0;margin-top:30px;background: #fff;}
+.eval_m{position: relative;height: 214px;width: 843px;}
+.eval_m .eval01{position: absolute;font-size: 12px;color:#666666;left:252px;top:30px;}
+.eval_m .eval01 span{color:#f99302;margin-left:10px;margin-right:5px;}
+.eval_m .eval02{font-size: 13px;color:#666666;position: absolute;left:252px;top:74px;}
+.eval_m .eval02 span{font-size: 20px;color:#f99302;}
+.eval_m .eval03{width: 163px;height: 128px;position: absolute;left:440px;top:25px;}
+#content .cont_r .eval_m .eval03 p{font:12px/26px '';color:#666666}
+#content .cont_r .eval_m .eval03 p em{float: left;color:#f99302;}
+#content .cont_r .eval_m .eval03 p b{float: left;font-style: normal;color:#666666}
+#content .cont_r .eval_m .eval03 p span{float: left;display: block;width: 109px;height: 12px;background: #ececec;margin-top:7px;margin-left:10px;margin-right:10px;}
+#content .cont_r .evaluate .eval_m .eval_b a{width: 154px;height: 40px;border:1px solid #e0e0e0;border-bottom: none;font:13px/40px '';background: #fff;position: absolute;top:175px;left:37px;text-align: center;color:#404040;}
+#content .cont_r .evaluate .eval_m .eval_b a span{color:#f99302;}
+.size{height: 1200px;display: none}
+.size .size_t{width: 843px;border-top:1px solid #e0e0e0;margin-top:30px;background: #fff;}
+.size .size_b{width: 809px;height: 1000px;padding-top:65px;padding-left:110px;padding-right:110px;background: #f9f9f9;}
